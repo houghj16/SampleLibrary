@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// Changes in two places
 namespace MathLibrary
 {
     public class Class1
