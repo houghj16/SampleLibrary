@@ -17,9 +17,9 @@ namespace MathLibrary
             return a * b;
         }
 
-        public float Devide(float a, float b)
+        public float Divide(float a, float b)
         {
-            return a * b;
+            return a / b;
         }
 
         public float Power(float a)
