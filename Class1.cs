@@ -26,5 +26,7 @@ namespace MathLibrary
         {
             return a * a;
         }
+
+        //options
     }
 }
