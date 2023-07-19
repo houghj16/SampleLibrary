@@ -7,7 +7,7 @@ namespace MathLibrary
 {
     public class Class1
     {
-        public float Substract(float a, float b)
+        public float Subtract(float a, float b)
         {
             return a - b;
         }
@@ -17,7 +17,7 @@ namespace MathLibrary
             return a * b;
         }
 
-        public float Devide(float a, float b)
+        public float Divide(float a, float b)
         {
             return a * b;
         }
